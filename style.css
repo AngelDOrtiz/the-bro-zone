@@ -2,11 +2,7 @@ body {
     display: flex;
 }
 
-div {
-    flex-wrap: nowrap;
-    align-items: center;
 
-}
 
 
 
